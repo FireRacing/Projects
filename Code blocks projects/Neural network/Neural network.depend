@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1686503094 source:/run/media/tarun/Volume 2/Files/Project files/Cobe blocks project files/Neural network/Source files/Cpp files/tools.cpp
+	<iostream>
+	<math.h>
+	<limits>
+	<cmath>
+
+1687261029 source:/run/media/tarun/Volume 2/Files/Programs/C and C++/Cpp files/tools.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	<vector>
+
+1687261044 source:/run/media/tarun/Volume 2/Files/Programs/C and C++/Cpp files/test.cpp
+	<iostream>
+	<fstream>
+	<tools.h>
+	<vector>
+	<string>
+
+1686739711 source:/home/ktkr/Files/Programs/C and C++/Cpp files/test.cpp
+	<iostream>
+	<tools.h>
+
+1686739494 source:/home/ktkr/Files/Programs/C and C++/Cpp files/tools.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	<vector>
+	<regex>
+
+1686759465 source:/run/media/tarun/Volume 2/Files/Programs/C and C++/Cpp files/neural_network.cpp
+	<iostream>
+	<vector>
+
+1687260784 /run/media/tarun/Volume 2/Files/Programs/C and C++/Header files/tools.h
+	<vector>
+
+1707815365 source:/run/media/tarun/Volume 2/Project files/Code blocks project files/Neural network/Cpp files/digital_image_processing.cpp
+
+1687261029 source:/run/media/tarun/Volume 2/Project files/Code blocks project files/Neural network/Cpp files/tools.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	<vector>
+
+1689609467 source:/run/media/tarun/Volume 2/Project files/Code blocks project files/Neural network/Cpp files/Vulkan.cpp
+
+1707815365 source:/run/media/tarun/Volume 2/Projects/Code blocks projects/Neural network/Cpp files/digital_image_processing.cpp
+
+1714215005 source:/run/media/tarun/Volume 2/Projects/Code blocks projects/Neural network/Cpp files/tools.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	<vector>
+
+1689609467 source:/run/media/tarun/Volume 2/Projects/Code blocks projects/Neural network/Cpp files/Vulkan.cpp
+
